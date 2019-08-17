@@ -9,12 +9,30 @@
 .title{
     display: inline-block;
     position: relative;
-    left:5vw;
+    left:9vw;
 
 }
 #link{
     color: #b0952e;
 }
+.Logo{
+    position: relative;
+    left: 54%;
+}
+/*.Logo{
+    background-color: #4aaaa5;
+    width: 60%;
+    height: 90%;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    left: 7%;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    border-radius: 5px;
+}*/
 .buildingHolder{
     background-color: #3b1110;
 }
@@ -40,20 +58,7 @@
     margin:0px;
 }**/
 /**Style my Name Logo**/
-/*.Logo{
-    background-color: #4aaaa5;
-    width: 60%;
-    height: 90%;
-    text-align: center;
-    color: #ffffff;
-    position: relative;
-    left: 7%;
-    padding: 20px;
-    font-weight: bold;
-    font-size: 25px;
-    display: inline-block;
-    border-radius: 5px;
-}
+
 /**Style my Links**/
 /*.links{
     position: relative;
